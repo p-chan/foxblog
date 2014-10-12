@@ -8,5 +8,5 @@ date: 2014-10-13
 
 ## 代替案
 DropboxやGDriveやFlickrに画像を置いて共有。<br>
-僕的にはこっちのほうがシンプルな気がします。
-![osfoora](https://www.dropbox.com/s/mjch09ebayfel0h/started-using-osfoora.png)
+僕的にはこっちのほうがシンプルな気がします。<br>
+![osfoora](https://www.dropbox.com/s/mjch09ebayfel0h/started-using-osfoora.png?dl=1)
