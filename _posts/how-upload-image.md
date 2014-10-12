@@ -2,11 +2,12 @@
 title: INARIって画像アップできるの？
 date: 2014-10-13
 ---
-基本的に出来ません。
-
+基本的に出来ません。<br>
 これはINARIで作ったブログのソースコードの肥大化を防ぐためです。
 
-## 代替案
-DropboxやGDriveやFlickrに画像を置いて共有。<br>
-僕的にはこっちのほうがシンプルな気がします。<br>
-![osfoora](https://www.dropbox.com/s/mjch09ebayfel0h/started-using-osfoora.png?dl=1)
+## 画像を入れる方法
+Dropboxに画像を置いて共有するというやり方があります。<br>
+僕的にはこのやり方のほうがシンプルな気がします。<br>
+[Dropboxの共有リンクでブログに画像を表示する方法 ](http://tantant.jp/blog/Dropbox/image-hosting-from-dropbox/)
+
+ぜひ、お試し下さい。
